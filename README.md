@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Elaborate Train and Predict mode docs arguments (#8137)
